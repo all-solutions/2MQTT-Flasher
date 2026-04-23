@@ -29,8 +29,8 @@ Main application window:
 
 <img width="445" height="563" alt="image" src="https://github.com/user-attachments/assets/92af4b84-1b25-4034-89a0-1ba497e93525" />
 
-
-
+ 
+ 
 Features:
 
 https://github.com/user-attachments/assets/cb098669-20be-4987-a58e-68cc96a3c58c
