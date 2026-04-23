@@ -20,8 +20,7 @@ The actual flashing process uses Espressif's `esptool` under the hood.
 - automatic serial port scan
 - chip information view
 - serial log viewer
-- default flash speed 921600 for faster flashing
-- fallback to 115200 for unsupported ESP chips
+- default flash speed 921600 for faster flashing, fallback to 115200 for unsupported ESP chips
 - compact GUI with only the relevant options exposed
 
 ## GUI Overview
