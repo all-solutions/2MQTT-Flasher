@@ -115,4 +115,4 @@ Close other serial tools such as:
 
 ### Antivirus warning on packaged binaries
 
-PyInstaller-based desktop apps can trigger false positives on some antivirus products. If that happens, verify the source and build the binary yourself if needed.
+PyInstaller-based desktop apps can trigger false positives on some antivirus products.
